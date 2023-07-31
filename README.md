@@ -5,6 +5,6 @@ Projeto para exemplificar o uso de modelos de caixas usando HTML e CSS.
 
 [<img src="./resultado.jpg" alt="modelos de caixas usando HTML e CSS">](https://priscila199.github.io/modelos-de-caixas/)
 
-## Tecnologia Utilizada
+## Tecnologias Utilizadas
 - HTML
 - CSS
